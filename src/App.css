@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-top:20px;
+}
+.editor{
+  text-align: center;
+}
+#editor{
+    resize: none;
+    width:50%;
+    max-height:40%;
+    padding: 10px;
+    overflow: auto;
+}
+.editor__header{
+  text-transform: uppercase;
+  font-weight: 700;
+}
